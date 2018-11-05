@@ -21,9 +21,9 @@ The program will be able to:
 **User Stories**
 
 
-(1) As a player, I would like to see an output which looks like a traditional calender
-(2) As a player, I would like to write entires into the calender
-(3) As a player, I would like to edit existing entries in the file
+- As a player, I would like to see an output which looks like a traditional calender
+- As a player, I would like to write entires into the calender
+- As a player, I would like to edit existing entries in the file
 
 
 How We Addressed The Requirements
