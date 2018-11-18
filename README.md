@@ -21,9 +21,10 @@ The program will be able to:
 **User Stories**
 
 
-- As a player, I would like to see an output which looks like a traditional calender
-- As a player, I would like to write entires into the calender
-- As a player, I would like to edit existing entries in the file
+- As a user, I would like to write entires into the calender
+- As a user, I would like to edit existing entries in the file
+- As a user, I would like to see my calendar in a nice readable format
+- As a user, I would like to 
 
 
 How We Addressed The Requirements
@@ -34,12 +35,12 @@ Utility
 
 # IV. Technical Details
 
-Multi platform program 
+Utility program on a command line
 
 
 Programming Language/Enviroment
 
-Python / https://repl.it  
+Python IDLE 3.7
 
 
 Programming Challenges
