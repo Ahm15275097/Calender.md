@@ -15,7 +15,7 @@ The program will be able to:
 
 **Non-Functional Requirements**
 - Format output to look more like a traditional calendar
-- 
+- Delete a selected entry
 
 
 **User Stories**
@@ -24,14 +24,14 @@ The program will be able to:
 - As a user, I would like to write entires into the calender
 - As a user, I would like to edit existing entries in the file
 - As a user, I would like to see my calendar in a nice readable format
-- As a user, I would like to 
+- As a user, I would like to delete a selected entry 
 
 
 How We Addressed The Requirements
 How will your planned product meet the user requirements
 
 # III. Genre
-Utility 
+Utility program on a command line 
 
 # IV. Technical Details
 
